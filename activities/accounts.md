@@ -8,7 +8,7 @@
 4. Choose the free account option
 5. Once signed up, go to https://education.github.com/discount_requests/new
 6. Fill out the information to request an education license as a student
-7. Make sure you will remember your username, as you will need it for the next step
+7. Email me your Github username (send to lavinm@denison.edu)
 
 ## Create and Share a Folder on Google Drive
 
@@ -17,7 +17,3 @@
 3. Name the new folder [Yourlastname]-DA-101-Fall-2020, as in `Lavin-DA-101-Fall-2020`
 4. Once the folder is created, right click on the folder icon and select "Share"
 5. Type `lavinm@denison.edu` in the share field, make sure the role of "editor" is selected tot he right of the screen, and click "Send"
-
-## Google Form  
-
-1. Go to https://forms.gle/wWxb3nxsKB6XwzY2A and fill out the course survey, which asks for your name, your email, your Github username, etc. and asks you to describe your background and prior instruction with data analysis, programming, etc. 

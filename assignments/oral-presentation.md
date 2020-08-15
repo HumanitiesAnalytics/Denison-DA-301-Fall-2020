@@ -13,4 +13,4 @@
 
 ## What to Turn In
 
-Before teh day you are giving your presentation, save a copy of your slides to your Google Drive folder and verify that the folder is shared it with me. Google Slides, PowerPoint, or PDF formats are acceptable. Include your notes for each slide, either in the slide notes section or in a separate document.
+Before the day you are giving your presentation, save a copy of your slides to your Google Drive folder and verify that the folder is shared it with me. Google Slides, PowerPoint, or PDF formats are acceptable. Include your notes for each slide, either in the slide notes section or in a separate document.

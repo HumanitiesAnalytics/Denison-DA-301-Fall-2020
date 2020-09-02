@@ -10,10 +10,10 @@ Your mini-review is a coherent essay of a literature review, related to the topi
 
 The purpose of this assignment is to research a topic for analysis so you can learn to:
 
-(1) identify and formulate an inquiry question that defines what you’d like to learn,
-(2) search, locate, and assess information using library and Internet resources,
-(3) synthesize new knowledge into a written literature review, and
-(4) establish context and confidence from your client in your ability to speak knowledgeably on
+1. identify and formulate an inquiry question that defines what you’d like to learn,
+2. search, locate, and assess information using library and Internet resources,
+3. synthesize new knowledge into a written literature review, and
+4. establish context and confidence from your client in your ability to speak knowledgeably on
 the topic.
 
 ## Format 

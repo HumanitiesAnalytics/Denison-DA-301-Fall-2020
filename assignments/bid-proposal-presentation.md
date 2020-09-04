@@ -33,7 +33,7 @@ e-of-scientific-speaking.pdf
 | Clarity | The presentation had a clear organization, and was easy to follow across the different presenters and sections.|
 | Oral presentation | Each presenter spoke clearly and loudly enough to be heard and understood |
 | Visual Presentation | Visual aids (graphs, charts, photos, etc) helped increase engagement and understanding of the subject matter and project approach.|
-| Knowledge Demonstrated an understanding of the subject, what analytical tools would be appropriate, and critical thinking skills.|
+| Knowledge | Demonstrated an understanding of the subject, what analytical tools would be appropriate, and critical thinking skills.|
 | Engagement | Engaged the audience and kept interest (this could include things like, made eye contact, looked up from notes, used an expressive voice, and/or used visuals, handouts, drawing on the board, or hand gestures to help explain).|
 | Time Management | Demonstrated good time management skills by staying within the time limit and each team member presenting their section in a clear and concise manner, and not rambling, nor rushing through the material. Team members presented for a (roughly) equivalent amount of time.|
 | Use of language and examples: Helped others to understand the material, by using plain language and examples/explanations that a listener unfamiliar with your dataset or subject could understand.|

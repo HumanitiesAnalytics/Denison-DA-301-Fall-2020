@@ -1,15 +1,20 @@
 # Bid Proposal Presentation
 
-This presentation is a team assignment worth 5% of your overall course grade. These in-class presentations will be evaluated roughly following the rubric at the end of this assignment description. Since this is your first evaluated presentation in the course, the grade weighting and evaluation is based more on content and materials and less on the actual delivery (though that matters). The delivery is expected to improve as you reflect on this early experience and continue to grow your skills moving toward future presentations. 
+This presentation is a team assignment worth 5% of your overall course grade. These **remote** presentations will be evaluated roughly following the rubric at the end of this assignment description. Since this is your first evaluated presentation in the course, the grade weighting and evaluation is based more on content and materials and less on the actual delivery (though that matters). The delivery is expected to improve as you reflect on this early experience and continue to grow your skills moving toward future presentations. 
 
-At some point in the days after the presentation (one week maximum) you will present and meet with your client. While the content may vary a bit since the client is a different audience, I will be seeking some feedback from them as to how these bid meetings went (see last couple lines of rubric).
+At some point in the days after the presentation (one week maximum) you will present and meet with your client. While the content may vary a bit since the client is a different audience, I will be seeking some feedback from them as to how these bid meetings went (see last couple lines of rubric). 
+
+__Note__: We will conduct these presentations remotely in order to mimic the conditions you will have when presenting to your client. Our asynchronous team shoud either plan to present synchronously on September 9 or make an appointment with me to deliver their presentation live outside of class. 
+
+## What to Turn In
+
+Before the day you are giving your presentation, save a copy of your slides to your team Google Drive folder. Google Slides, PowerPoint, or PDF formats are acceptable. Include your notes for each slide, either in the slide notes section or in a separate document.
 
 ## Some General Advice
 
 - All members of the team should participate in the presentation for roughly equivalent
 amounts of time.
-- This should go without saying, you should not read from a sheet of paper. You may use notes when you make your presentation, but you should not read from a fully written out text.
-
+- This should go without saying, you should not read directly from a sheet of paper. You may use notes when you make your presentation, but you should not read directly from a fully written out text.
 - Length in lass should be 10-15 minutes, but it will be useful to aim for 10-12 minutes in case you go over. Your client meeting should be for 30-60 minutes with a 10-15 minute presentation being part of that meeting. Of course, depending on what your client wants.
 - A general rule of thumb is 1 slide per minute of presentation, so maybe 12 slides
 - Think of your slides as visual aides. Do not try to include all information on your slides

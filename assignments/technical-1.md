@@ -1,6 +1,6 @@
 # Technical Progress Report I
 
-This is a team assignment worth 10% of your overall course grade. It should be submitted to the professor and to your client (in the same email) no later than 5 pm on Sunday, October 27.
+This is a team assignment worth 10% of your overall course grade. It should be submitted to the professor and to your client (in the same email) no later than 5 pm on Friday, October 2.
 
 The main goal of the progress report is to demonstrate visibility and transparency to your client. You need to make sure they understand how the project is progressing and have the opportunity for input at critical checkpoints along the way. To do this, you will need to communicate clearly, concisely, and effectively, and be prepared to use the progress report as the basis of a discussion to revamp or clarify aspects of your project.
 

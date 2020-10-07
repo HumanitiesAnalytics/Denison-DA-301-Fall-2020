@@ -18,7 +18,7 @@ You have two options or tracks for this assignment:
 
 A multi-viz dashboard or infographic out of 2-3 simpler visualizations
  
-# Option 2: 
+## Option 2: 
 
 A less commonly used visualization type from the list below. If you choose this option, bear in mind that you will need to find or create a dataset that will work with your data visualization. 
 

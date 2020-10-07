@@ -1,6 +1,6 @@
 # Individual Data Visualization Assignment
 
-This is an individual assignment that counts for 5% of your grade for the course. It is due by class time on Wednesday, October 14, 2020. The goal of the assignment is to use a strategy of iteration and revision to nudge your data visualizations/graphics toward being more professional (publication quality) by doing one or more of the following:
+This is an individual assignment that counts for 5% of your grade for the course. It is due by class time on Wednesday, October 14, 2020. The goal of the assignment is to use a strategy of iteration and revision to nudge your data visualizations/graphics toward being more professional (publication quality) by doing two or more of the following:
 
 1. Harmonizing design elements with distinctive (non-template) fonts, colors, backgrounds, alignments, etc.
 2. Developing a "design theme" of your own that you can use for a set of visualizations in a report, poster, or other deliverable.

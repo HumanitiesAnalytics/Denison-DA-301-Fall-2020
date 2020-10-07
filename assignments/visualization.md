@@ -32,9 +32,9 @@ Turn in your work (two files) using your individual GDrive folders. JPG or PNG a
 - a sunburst network_diagram	https://datavizcatalogue.com/methods/sunburst_diagram.html
 - a choropleth map (if you've done one yet)	https://datavizcatalogue.com/methods/choropleth.html
 - a bubble plot https://www.data-to-viz.com/graph/bubble.html
-- a chord diagrams: https://datavizcatalogue.com/methods/chord_diagram.html
+- a chord diagram: https://datavizcatalogue.com/methods/chord_diagram.html
 - a sankey chart / connected timeline: https://datavizcatalogue.com/methods/sankey_diagram.html
-- contour plots (similar to heatmap, but not the same)
+- contour plots (similar to heatmap, but not the same): https://python-graph-gallery.com/1136-2/
 
 ## Some articles about designing visualizations with various tools
 

@@ -26,7 +26,7 @@ For either option, your visualization should be very well polished, with a clear
 
 ## Turning it In
 
-Turn in your work (two files) using your individual GDrive folders. JPG or PNG are the preferred file formats.  
+Turn in your work (one file) using your individual GDrive folders. JPG or PNG are the preferred file formats.  
 ## Some less commonly used visualization types 
 
 - a treemap	https://datavizcatalogue.com/methods/treemap.html

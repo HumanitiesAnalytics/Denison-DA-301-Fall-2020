@@ -7,7 +7,12 @@ This is an individual assignment that counts for 5% of your grade for the course
 3. Combining multiple visualizations into a dashboard or infographic in Photoshop, Tableau, etc.
 4. Using less commonly employed data visualization types such as treemaps, network diagrams, bubble plots, etc. 
 
-For the assignment, each student should make one visualization. Your visualization can be based on any sample dataset, as our goal is to practice skills rather than produce materials for our clients. You have two options or tracks for this assignment:
+For the assignment, each student should make one visualization. 
+
+For the assignment, each student should make one polished visualization or composite. Visualizations should stand on their own, so other than prose that naturally
+goes in a visual (i.e., title, axis labels, source(s), a short caption, etc...) all that you will submit is the final visualization. While you may want to use data related to your project in order to promote synergy with this task, you are free to use any publicly, and ethically available data set that advances your goals. In fact, you may want to eventually use your viz as a public facing post which might preclude using some client data/results. However this is completely your call. Under no circumstances should you use or recycle a visualisation from another class.
+
+You have two options or tracks for this assignment:
 
 ## Option 1: 
 

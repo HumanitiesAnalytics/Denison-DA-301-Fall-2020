@@ -7,11 +7,17 @@ This is an individual assignment that counts for 5% of your grade for the course
 3. Combining multiple visualizations into a dashboard or infographic in Photoshop, Tableau, etc.
 4. Using less commonly employed data visualization types such as treemaps, network diagrams, bubble plots, etc. 
 
-For the assignment, each student should make two visualizations. These visualizations can be based on any sample dataset, as our goal is to practice skills rather than produce materials for our clients. 
+For the assignment, each student should make one visualization. Your visualization can be based on any sample dataset, as our goal is to practice skills rather than produce materials for our clients. You have two options or tracks for this assignment:
 
-The first visualization should focus on harmonizing design elements. It should be very well polished, with a clear title on top and a fully developed caption below the graphic. The data labels should be human readable, and the any axis scales, legends, etc. should be polished as well. Further, you should choose distinctive design elements such as fonts, colors, backgrounds, alignments, etc., that make your visualization look different than the default template in whatever tool or library you are using. You can do all of this with code, or you can save your image and edit it in Photoshop if you know how. Your goal is to begin to establish the elements of a "design theme" that would work for multiple visualizations. 
+## Option 1: 
 
-For your second visualization, you should extend your design theme by (1) making a multi-viz dashboard or infographic out of 2-3 simpler visualizations, or by (2) making a less commonly used visualization type from the list below. If you opt for option 2, bear in mind that you will need to find or create a dataset that will work with your data visualization. Whichever of these you choose, the two visualizations should share design elements such as fonts, colors, backgrounds, alignments, etc. in common so that, as a pair, the two visualizations express a "design theme." 
+A multi-viz dashboard or infographic out of 2-3 simpler visualizations
+ 
+# Option 2: 
+
+A less commonly used visualization type from the list below. If you choose this option, bear in mind that you will need to find or create a dataset that will work with your data visualization. 
+
+For either option, your visualization should be very well polished, with a clear title on top and a fully developed caption below the graphic. The data labels should be human readable, and the any axis scales, legends, etc. should be polished as well. Further, you should choose distinctive design elements such as fonts, colors, backgrounds, alignments, etc., that make your visualization look different than the default template in whatever tool or library you are using. You can do all of this with code, or you can save your image and edit it in Photoshop if you know how. Your goal is to begin to establish the elements of a "design theme" that would work for multiple visualizations.
 
 ## Turning it In
 
@@ -26,6 +32,9 @@ Turn in your work (two files) using your individual GDrive folders. JPG or PNG a
 - a sunburst network_diagram	https://datavizcatalogue.com/methods/sunburst_diagram.html
 - a choropleth map (if you've done one yet)	https://datavizcatalogue.com/methods/choropleth.html
 - a bubble plot https://www.data-to-viz.com/graph/bubble.html
+- a chord diagrams: https://datavizcatalogue.com/methods/chord_diagram.html
+- a sankey chart / connected timeline: https://datavizcatalogue.com/methods/sankey_diagram.html
+- contour plots (similar to heatmap, but not the same)
 
 ## Some articles about designing visualizations with various tools
 

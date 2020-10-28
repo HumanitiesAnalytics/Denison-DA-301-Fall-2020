@@ -2,11 +2,11 @@
 
 This is an individual assignment worth 5% of your overall course grade and is a key way to evaluate your individual "R-overlay" growth building on the ungraded early team, visualization, and other opportunities to practice. Each student will also contribute to peer review of one or more talks, and to participate in thoughtful questions and discussion of the talks as a whole. The assignment is meant to expose you to a different type of communication, and to help you gain confidence and practice communicating. This semester, because of covid-19, we will be recording our talks and sharing them via notebowl. 
 
-A PechaKucha is type of lightning talk where a presenter shows 20 slides for 20 seconds of commentary each (6 minutes and 40 seconds total). The idea of this format to is constrain the presentation with a time limit and to press the presenter to convey information in an economical, accessible way. When first doing presentations in this style, students are often struck by how awkward it can be to have their slides advance automatically beofre they have finished speaking, or to finish speaking early and have to wait for the slide to advance. However, this is indeed the point of the format: to call your attention to the process of planning out each slide's content so that your presentation goes smoothly. 
+A PechaKucha is type of lightning talk where a presenter shows 20 slides for 20 seconds of commentary each (6 minutes and 40 seconds total). The idea of this format to is constrain the presentation with a time limit and to press the presenter to convey information in an economical, accessible way. When first doing presentations in this style, students are often struck by how awkward it can be to have their slides advance automatically before they have finished speaking, or to finish speaking early and have to wait for the slide to advance. However, this is indeed the point of the format: to call your attention to the process of planning out each slide's content so that your presentation goes smoothly. 
 
 ## Due Date 
 
-Your video submissions will be due by classtime on Monday, November 9. Note that our initial calendar called for hal the presentations to take place Monday, November 2, but this is no longer the case. 
+Your video submissions will be due by class time on Monday, November 9. Note that our initial calendar called for half of the presentations to take place Monday, November 2, but this is no longer the case. 
 
 ## Your Topic
 
@@ -18,11 +18,11 @@ The easiest way to program a slide show to advance every 20 seconds is probably 
 
 ## Recording your Presentation and Turning in Your Work
 
-There are a variety of screen capture/recording options you can use to record yourself presenting your PechKucha. It is your responsibility to research possible tools, establish enough comptency to make a video, and and record your presentation. That said, OBS is free, cross-platform compatible, and relatively easy to use. (See https://obsproject.com/) Save or export your video in mpeg format and submit it via the NoteBowl assignment stub. 
+There are a variety of screen capture/recording options you can use to record yourself presenting your PechKucha. It is your responsibility to research possible tools, establish enough competency to make a video, and record your presentation. That said, OBS is free, cross-platform compatible, and relatively easy to use. (See https://obsproject.com/) Save or export your video in mpeg format and submit it via the NoteBowl assignment stub. 
 
 ## Peer Review 
 
-Once all video files are submitted, I will make everyone's presentations available via Notebowl. You are expected to watch all 12 talks, which will take 1.5 to 2 hours (coutning transition time), so please plan accordingly. Each student will be responsible for providing written feedback to one peer by the time of the following class. Since presentations are short, you will only need to provide peer feedback in one of the areas listed below. (I will assign which talk each person reviews, so that everyone writes and receives one review). These questions are designed to make you look for certain elements in the presentation, think about whether they worked, and to make suggestions.
+Once all video files are submitted, I will make everyone's presentations available via Notebowl. You are expected to watch all 12 talks, which will take 1.5 to 2 hours (counting transition time), so please plan accordingly. Each student will be responsible for providing written feedback to one peer by the time of the following class. Since presentations are short, you will only need to provide peer feedback in one of the areas listed below. (I will assign which talk each person reviews, so that everyone writes and receives one review). These questions are designed to make you look for certain elements in the presentation, think about whether they worked, and to make suggestions.
 
 Remember that strong critical feedback is about being positive, specific, & providing a next step.
 
@@ -64,7 +64,7 @@ Presenter spoke clearly and loudly enough to be heard and understood.
 
 ### Visual Presentation: 
 
-Visual aids (graphs, charts, photos, etc) helped increase engagement and understanding of the subject matter and project approach. 
+Visual aids (graphs, charts, photos, etc.) helped increase engagement and understanding of the subject matter and project approach. 
 
 ### Peer Feedback: 
 
